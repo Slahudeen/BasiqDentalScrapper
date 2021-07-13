@@ -1,0 +1,7 @@
+pystrich
+selenium
+jupyter
+ipython
+requests
+bs4
+lxml

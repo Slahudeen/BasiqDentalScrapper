@@ -1,0 +1,2 @@
+dodocker build . -t scraper:test
+docker run scraper:test
